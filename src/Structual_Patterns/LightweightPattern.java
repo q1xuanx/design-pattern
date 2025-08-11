@@ -33,8 +33,6 @@ public class LightweightPattern {
 			}
 			return mapCharater.get(c);
 		}
-		
-		
 	}
 	
 	
